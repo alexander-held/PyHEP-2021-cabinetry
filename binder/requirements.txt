@@ -1,0 +1,3 @@
+cabinetry[contrib]==0.2.2
+# Ensure Jupyter notebook
+jupyter~=1.0
