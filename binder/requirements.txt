@@ -1,4 +1,4 @@
-cabinetry[contrib]==0.2.2
+cabinetry[contrib]==0.2.3
 pyhf[jax,contrib]==0.6.2
 hist[plot]==2.3.0
 # Ensure Jupyter notebook
