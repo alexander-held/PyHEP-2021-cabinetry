@@ -144,6 +144,5 @@ electroweakinos.json
 
 # cabinetry output
 figures/
-histograms/
-histograms_smoothing/
+histograms*/
 PyHEP_workspace.json
