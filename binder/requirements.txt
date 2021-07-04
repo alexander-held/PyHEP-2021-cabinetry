@@ -1,3 +1,5 @@
 cabinetry[contrib]==0.2.2
+pyhf[jax,contrib]==0.6.2
+hist==2.3.0
 # Ensure Jupyter notebook
 jupyter~=1.0
