@@ -140,9 +140,8 @@ cython_debug/
 # specific ignores for this repository
 # HEPData workspace
 electroweakinos/
-electroweakinos.json
 
 # cabinetry output
 figures/
 histograms*/
-PyHEP_workspace.json
+*.json
