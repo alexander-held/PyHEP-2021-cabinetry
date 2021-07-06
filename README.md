@@ -9,6 +9,10 @@ The `cabinetry` library provides a Python-based solution for building and steeri
 
 This tutorial provides an overview of `cabinetry` and shows its use in the creation and operation of statistical models. It also demonstrates how to use `cabinetry` for common tasks required during the design of a statistical analysis model.
 
+## How to run
+
+You can run the `talk.ipynb` notebook in this repository [via Binder](https://mybinder.org/v2/gh/alexander-held/PyHEP-2021-cabinetry/HEAD?filepath=talk.ipynb). The `evaluated/` folder contains a copy of the notebook with all cells evaluated.
+
 ## Further resources
 - `cabinetry` on GitHub: https://github.com/alexander-held/cabinetry/
 - documentation: https://cabinetry.readthedocs.io/
